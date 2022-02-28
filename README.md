@@ -24,7 +24,7 @@
 <img src="/assets/images/dating_app1.jpg"/>
 <img src="/assets/images/dating_app2.jpg"/>
 <img src="/assets/images/dating_app3.jpg"/>
-##  Leave a star on the repository if you like what you see
+# Leave a star on the repository if you like what you see
 ## Getting Started
 
 This project is a starting point for a Flutter application.
