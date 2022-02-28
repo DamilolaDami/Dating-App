@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "334114304202",
+    "project_id": "tiki-1cb3c",
+    "storage_bucket": "tiki-1cb3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334114304202:android:224e39fc12d14b4bb2c433",
+        "android_client_info": {
+          "package_name": "com.example.tiki"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334114304202-srb97jo2dcvp0edh5mfjkc5n0b3ibskg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tiki",
+            "certificate_hash": "93d563d942a7181610400bbe8fea41642c3f98e6"
+          }
+        },
+        {
+          "client_id": "334114304202-hs093aad5gijbboi1jqhff0nhh94nrb2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO6j_4aQJRuR5XVjAGMh_83Prjp8hmh8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334114304202-hs093aad5gijbboi1jqhff0nhh94nrb2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
